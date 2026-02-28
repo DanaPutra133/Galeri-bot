@@ -7,7 +7,7 @@ export default function NotifModal({ open, onClose }) {
       <div className="w-full h-full absolute bg-black/40 pointer-events-auto" onClick={onClose}></div>
       <div className="relative m-6 mb-8 w-full max-w-xs bg-white rounded-2xl shadow-2xl p-6 pointer-events-auto animate-fadeInUp">
         <h2 className="text-lg font-bold mb-2 text-gray-900">Mau bot kamu masuk?</h2>
-        <p className="text-gray-700 mb-4">Download template di bawah lalu kirim ke owner untuk di Konfirmasi, Bot hanya boleh Base atau menggunakan API dari Betabotz/ Botcahx.</p>
+        <p className="text-gray-700 mb-4">Download template di bawah, edit sesuai dengan bot kamu lalu kirim ke owner untuk di Konfirmasi, Bot hanya boleh Base atau menggunakan API dari Betabotz/ Botcahx.</p>
         <a
           href="/src/template/template.json"
           download="template.json"
