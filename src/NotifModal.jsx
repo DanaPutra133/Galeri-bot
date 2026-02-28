@@ -9,7 +9,7 @@ export default function NotifModal({ open, onClose }) {
         <h2 className="text-lg font-bold mb-2 text-gray-900">Mau bot kamu masuk?</h2>
         <p className="text-gray-700 mb-4">Download template di bawah, edit sesuai dengan bot kamu lalu kirim ke owner untuk di Konfirmasi, Bot hanya boleh Base atau menggunakan API dari Betabotz/ Botcahx.</p>
         <a
-          href="/src/template/template.json"
+          href="/template.json"
           download="template.json"
           className="block w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mb-3 text-center transition"
         >
