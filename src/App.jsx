@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import NotifModal from './NotifModal';
 import { motion, AnimatePresence } from 'framer-motion';
 import ReactDiffViewer from 'react-diff-viewer-continued';
 
@@ -7,6 +8,7 @@ const bots = Object.values(botFiles).map(f => f.default);
 
 export default function App() {
   const [selectedBot, setSelectedBot] = useState(null);
+  const [notifOpen, setNotifOpen] = useState(false);
   const [changelog, setChangelog] = useState([]);
   const [selectedCommit, setSelectedCommit] = useState(null);
   const [commitDetails, setCommitDetails] = useState(null);
@@ -373,6 +375,17 @@ export default function App() {
           </motion.div>
         )}
       </AnimatePresence>
+      {/* Floating Notification Button */}
+      <button
+        onClick={() => setNotifOpen(true)}
+        className="fixed bottom-6 right-6 z-150 bg-blue-600 hover:bg-blue-700 text-white rounded-full shadow-lg p-4 flex items-center justify-center transition-all focus:outline-none"
+        aria-label="Notifikasi"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-7 h-7">
+          <path strokeLinecap="round" strokeLinejoin="round" d="M12 22c1.104 0 2-.896 2-2H10c0 1.104.896 2 2 2zm6-6V11c0-3.07-1.64-5.64-5-6.32V4a1 1 0 10-2 0v.68C7.64 5.36 6 7.92 6 11v5l-1.29 1.29A1 1 0 006 19h12a1 1 0 00.71-1.71L18 16z" />
+        </svg>
+      </button>
+      <NotifModal open={notifOpen} onClose={() => setNotifOpen(false)} />
     </div>
   );
 }

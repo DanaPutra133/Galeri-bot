@@ -2,23 +2,37 @@
   "name": "Betabotz MD2",
   "platform": "Whatsapp",
   "tagline": "Bot Whatsapp dengan banyak fitur berguna!",
-  "description": "Bot multifungsi untuk Grub whatsapp Anda dengan fitur RPG, Musik, dan banyak lagi.",
+  "description": "Bot multifungsi untuk Grub whatsapp Anda dengan fitur RPG, Musik, Tools, dan banyak lagi.",
   "repo": "DanaPutra133/AQUABOT-V4",
   "avatar": "https://uploader.danafxc.my.id/images/fc8587cc-9f4c-40df-875c-c6842fe6005e.jpg",
   "invite_link": "https://chat.whatsapp.com/H8XPKS8vmHm2spliGlKY41",
-  "features": [         
+  "features": [
     {
-      "title": "Sistem Waifu Claim",
-      "desc": "Klaim, nikahi, dan lihat peringkat waifu favoritmu. Dengan sistem 'discovery', temukan karakter baru dari galeri yang luas.",
-      "image": "https://uploader.danafxc.my.id/images/b35432f8-303c-47ca-aae4-fe6fbe031f22.png"
+      "title": "Menu yang melimpah  ",
+      "desc": "Berbagai menu lengkap untuk memenuhi kebutuhan Grub kamu.",
+      "image": "https://uploader.danafxc.my.id/images/4777d90e-461e-4ada-8ed9-31d6b5cc5229.jpg"
     },
     {
-      "title": "Sistem RPG Lengkap",
-      "desc": "Naikkan level, kumpulkan uang, beli item, dan jadilah yang terkuat di server! Database terpusat memastikan progresmu aman.",
-      "image": "https://uploader.danafxc.my.id/images/b35432f8-303c-47ca-aae4-fe6fbe031f22.png"
+      "title": "Masa aktif 24/7",
+      "desc": "Bot selalu aktif dan siap membantu kapan saja kamu membutuhkan.",
+      "image": "https://uploader.danafxc.my.id/images/cd3894a9-ea93-4b53-b3b6-1307ce572e80.png"
+    },
+    {
+      "title": "Sc yang selalu update",
+      "desc": "Source code bot selalu diperbarui dengan fitur-fitur terbaru dan perbaikan.",
+      "image": "https://uploader.danafxc.my.id/images/385f4ca4-465e-40cd-acec-86d24db72e51.png"
+    },
+    {
+      "title": "Mudah di jalankan di server",
+      "desc": "Cara menjalankan bot di server sangat mudah dan tidak memerlukan banyak konfigurasi.",
+      "image": "https://uploader.danafxc.my.id/images/7e668bba-d8f5-41ca-afd1-002da212ac49.png"
     }
   ],
   "additional_links": [
-    { "label": "Source Code Bot", "desc": "Jangan lupa Bintang nya :D", "url": "https://github.com/ERLANRAHMAT/BETABOTZ-MD2" }
+    {
+      "label": "Source Code Bot",
+      "desc": "Jangan lupa Bintang nya :D",
+      "url": "https://github.com/ERLANRAHMAT/BETABOTZ-MD2"
+    }
   ]
 }
