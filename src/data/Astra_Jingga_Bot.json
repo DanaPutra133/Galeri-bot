@@ -1,0 +1,38 @@
+{
+  "name": "Astra Jingga Bot",
+  "platform": "Whatsapp",
+  "tagline": "Bot Whatsapp dengan banyak fitur berguna!",
+  "description": "Bot multifungsi untuk Grub whatsapp Anda dengan fitur RPG, Musik, Tools, dan banyak lagi.",
+  "repo": "DanaPutra133/AQUABOT-V4",
+  "avatar": "https://uploader.danafxc.my.id/images/764cad7f-4dc9-4d80-9d93-29dca280db80.jpg",
+  "invite_link": "https://chat.whatsapp.com/LnUKebP8ctY5v9gFEpYOcZ?mode=gi_t",
+  "features": [
+    {
+      "title": "Menu yang melimpah  ",
+      "desc": "Berbagai menu lengkap untuk memenuhi kebutuhan Grub kamu.",
+      "image": "https://uploader.danafxc.my.id/images/4777d90e-461e-4ada-8ed9-31d6b5cc5229.jpg"
+    },
+    {
+      "title": "Masa aktif 24/7",
+      "desc": "Bot selalu aktif dan siap membantu kapan saja kamu membutuhkan.",
+      "image": "https://uploader.danafxc.my.id/images/cd3894a9-ea93-4b53-b3b6-1307ce572e80.png"
+    },
+    {
+      "title": "Sc yang selalu update",
+      "desc": "Source code bot selalu diperbarui dengan fitur-fitur terbaru dan perbaikan.",
+      "image": "https://uploader.danafxc.my.id/images/385f4ca4-465e-40cd-acec-86d24db72e51.png"
+    },
+    {
+      "title": "Mudah di jalankan di server",
+      "desc": "Cara menjalankan bot di server sangat mudah dan tidak memerlukan banyak konfigurasi.",
+      "image": "https://uploader.danafxc.my.id/images/7e668bba-d8f5-41ca-afd1-002da212ac49.png"
+    }
+  ],
+  "additional_links": [
+    {
+      "label": "Source Code Bot",
+      "desc": "Jangan lupa Bintang nya :D",
+      "url": "https://github.com/DanaPutra133/AQUABOT-V4"
+    }
+  ]
+}
