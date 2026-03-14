@@ -1,0 +1,38 @@
+{
+  "name": "Telebot Wa",
+  "platform": "Telegram",
+  "tagline": "Bot Telegram dengan banyak fitur berguna!",
+  "description": "Bot multifungsi untuk Grub Telegram Anda dengan fitur RPG, Musik, Tools, dan banyak lagi.",
+  "repo": "ERLANRAHMAT/telebot-wa",
+  "avatar": "https://cdn.filn.pp.ua/uploads/e17af.jpg",
+  "invite_link": "https://t.me/betabotzinfo",
+  "features": [
+    {
+      "title": "Banyak fitur lengkap",
+      "desc": "Berbagai menu dan fitur yang lengkap untuk memenuhi kebutuhan Anda.",
+      "image": "https://cdn.filn.pp.ua/uploads/a314b.jpg"
+    },
+    {
+      "title": "Masa aktif 24/7",
+      "desc": "Bot selalu aktif dan siap membantu kapan saja kamu membutuhkan.",
+      "image": "https://cdn.filn.pp.ua/uploads/runtime.jpg"
+    },
+    {
+      "title": "Sc yang selalu update",
+      "desc": "Source code bot selalu diperbarui dengan fitur-fitur terbaru dan perbaikan.",
+      "image": "https://cdn.filn.pp.ua/uploads/b16df.png"
+    },
+    {
+      "title": "Mudah di jalankan di server",
+      "desc": "Cara menjalankan bot di server sangat mudah dan tidak memerlukan banyak konfigurasi.",
+      "image": "https://cdn.filn.pp.ua/uploads/5bc2a.png"
+    }
+  ],
+  "additional_links": [
+    {
+      "label": "Source Code Bot",
+      "desc": "Dont Forgeet to Star and Fork the Repo",
+      "url": "https://github.com/ERLANRAHMAT/telebot-wa"
+    }
+  ]
+}
